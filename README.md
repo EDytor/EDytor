@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**EDytor/EDytor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eliza! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a beginner Java programmer from Poland.
+I've been learning programming since October 2021.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently working on MyKitchen app. 
+The project is to learn Spring, 
+but I would also like to use this application in my kitchen.
+
+## 🛠 Skills
+Java, JUnit5, HTML, Spring
